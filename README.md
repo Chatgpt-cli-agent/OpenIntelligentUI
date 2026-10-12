@@ -204,6 +204,7 @@ Built with CopilotKit. The `openGenerativeUI` runtime API and `generateSandboxed
 - [Documentation index](docs/README.md)
 - [Bring these patterns to your app](docs/bring-to-your-app.md)
 - [Source repository](https://github.com/CopilotKit/OpenIntelligentUI)
+- [Telemetry and how to turn it off](docs/telemetry.md)
 
 ## Contributing
 
